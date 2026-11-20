@@ -1,7 +1,9 @@
 {
  "datos": {
-  "fecha": "2026-11-20T03:52:22.713Z",
-  "lista": {}
+  "fecha": "2026-11-20T04:08:00.154Z",
+  "lista": {
+   "7L37SJB2": 1
+  }
  },
- "firma": "l08AB8xFZj8uMTwBZ1SG_q4g6IN-vDfzPVqEerXuH_kMQocE-wKSaoIgYsb3HOaKeOQDH_bJ6-MzU9m_hz2SCw"
+ "firma": "GIbfgpClpTl1Ffm2ClyQkuNaVsmJ5c6cWzzPTlLxLdFae-bG8zXvsnTYOOBFt0SHkgXKFRPzhrKueS0dG-IdCQ"
 }
