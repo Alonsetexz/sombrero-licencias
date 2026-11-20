@@ -1,7 +1,9 @@
 {
  "datos": {
-  "fecha": "2026-11-20T02:56:22.962Z",
-  "lista": {}
+  "fecha": "2026-11-20T03:47:34.399Z",
+  "lista": {
+   "369W294A": 1
+  }
  },
- "firma": "WEuhiJu6OMQCBf0oyZpMxdz94lvMSxLDcnNaJ9mTGflEN9J4v12A2FO75x_-QyFTgAQIhP09ccxaIQyW9D8wDg"
+ "firma": "jJtrZPrGjRjrjh096Pil4P5ruF4cI-pLg9r_oJBtUxgoE17iAt3_ozM5d-NS25pB22hYwvCrtViDaO3WH_fyDg"
 }
